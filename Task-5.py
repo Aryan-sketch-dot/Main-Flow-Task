@@ -14,7 +14,7 @@ from tkinter import messagebox
 root = tk.Tk()
 root.geometry("600x270")
 root.title("Currency Converter")
-root.iconbitmap('C:\\Users\\Kaibalya_personal\\Downloads\\icon.ico')
+root.iconbitmap('C:\\Users\\Aryan_Singh\\Downloads\\icon.ico')
 root.maxsize(600,270)
 root.minsize(600,270)
 image = Image.open("C:\currency.jpeg")
